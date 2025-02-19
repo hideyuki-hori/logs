@@ -49,3 +49,7 @@ branch: log/*
     - diary
     - log/*
 
+# gitignore
+
+cli -> diaryに切り替えると、rustのtarget/フォルダがいるので、gitignoreはなんかやったほうがいいかもしれない。
+mainからignoreブランチ作ろうか考え中。hotfix的にブランチにばらまくか、、、追跡がめんどくさいな。
