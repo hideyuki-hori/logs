@@ -12,3 +12,9 @@ SCRUMなんもわからんので読む。
 Backlog ってスクラム用語やったんか。
 
 04/10 -> 13%よんだ
+04/13 -> 100%よんだ
+
+用語はわかったが、業務知識の方がむずかしいので、この知識が活かせるようになるまで時間がかかりそう。
+こっちも読んだ。
+https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Japanese.pdf
+
