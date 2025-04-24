@@ -19,8 +19,10 @@ webglはボイラープレートが多いためthreejsをつかっていた。
 
 # 構成
 
+- react
 - tailwind
 - r3f
 - drei
 - three
 
+後でpostprocessingとか入れるかもしれないが、ベースは完成。
